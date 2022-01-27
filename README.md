@@ -1,3 +1,5 @@
+[![Header](https://raw.githubusercontent.com/VijayRavichander/VijayRavichander/blob/main/assets/readme_header.png"Header")]
+
 ### Hi there 👋
 
 <!--
