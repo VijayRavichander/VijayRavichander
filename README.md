@@ -7,6 +7,6 @@ Few things about me:
 - 🌱 I’m currently learning about the world of Transformers and LLMs
 - 👯 I’m looking to collaborate on projects related to deep learning research and applications in AI
 - 📫 How to reach me: vijaypreetham1@gmail.com
-- 💻 I also kaggle when I'm free. Check it out for cool notebooks: https://www.kaggle.com/vijayravichander
+- 💻 I'm also on kaggle when I'm free. Check it out for cool notebooks: https://www.kaggle.com/vijayravichander
 
 
